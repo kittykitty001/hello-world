@@ -7,3 +7,4 @@ Write a commit message that describes your changes.
 # test 4 from atom
 # test 5 from chrome
 # test 6 from atom
+# test 7 from atom
